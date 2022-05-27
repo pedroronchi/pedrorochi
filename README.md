@@ -11,4 +11,4 @@
 
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md-->
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroronchi)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroronchi&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
